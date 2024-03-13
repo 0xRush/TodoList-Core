@@ -257,3 +257,4 @@ C:\Users\a2020\OneDrive\Desktop\Iyas\ofok\TodoListApi\obj\Debug\net8.0\TodoListA
 C:\Users\a2020\OneDrive\Desktop\Iyas\ofok\TodoListApi\obj\Debug\net8.0\TodoListApi.genruntimeconfig.cache
 C:\Users\a2020\OneDrive\Desktop\Iyas\ofok\TodoListApi\obj\Debug\net8.0\ref\TodoListApi.dll
 C:\Users\a2020\OneDrive\Desktop\Iyas\ofok\TodoListApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\a2020\OneDrive\Desktop\Iyas\ofok\TodoListApi\obj\Debug\net8.0\TodoListApi.sourcelink.json
